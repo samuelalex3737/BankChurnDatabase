@@ -42,7 +42,6 @@ After deployment, paste your Streamlit Cloud link here:
 ### Business Impact
 - **Waterfall**: Revenue-at-risk → saved value → campaign cost → net impact
 - ROI simulator controls (threshold, save rate, offer cost)
-
 ---
 
 ## Dataset
