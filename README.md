@@ -67,14 +67,3 @@ Required columns (Kaggle format):
 
 > The app attempts to auto-normalize some common column name variants.
 
----
-
-## Run Locally
-
-### 1) Create environment (optional)
-```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
